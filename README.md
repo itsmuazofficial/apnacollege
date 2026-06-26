@@ -1,2 +1,2 @@
 # apnacollege
-Author - MuazIsrar
+Author - Muaz Israr
